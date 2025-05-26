@@ -11,23 +11,29 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+<h1 align="center">Hola, soy Juan 👨‍💻</h1>
+<p align="center">Desarrollador apasionado por el backend, amante de la arquitectura limpia y el código elegante</p>
 
-# 👋 ¡Hola! Soy Juan Pérez
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
 
-Soy desarrollador Full Stack con experiencia en **JavaScript, PHP, Laravel, React, y ASP.NET**. Me gusta construir aplicaciones limpias, escalables y enfocadas en la experiencia del usuario.
+## 🚀 Tecnologías
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+</p>
 
-## 🚀 Tecnologías y herramientas
-- 🧑‍💻 Lenguajes: JavaScript, PHP, C#, SQL
-- 🧰 Frameworks: Laravel, ASP.NET MVC, React, Vite
-- 🛠️ Bases de datos: MySQL, SQL Server
-- 🧪 Pruebas: PHPUnit, Postman
-- ⚙️ Control de versiones: Git, GitHub
+## 🧠 Actualmente aprendiendo
+- Docker y contenedores
+- Clean Architecture en Laravel
+- Testing con Pest y Laravel Dusk
 
-## 📈 GitHub Stats
-![Tus estadísticas](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=default)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact)
+## 💡 Proyectos Destacados
+- 🧾 [Control de Gastos Personales](https://github.com/tuusuario/gastos-app)
+- 🏗️ [Gestión de Almacenes ASP.NET](https://github.com/tuusuario/almacenes-app)
 
-## 📫 Contáctame
-- 💼 [LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
-- 📧 correo@example.com
-- 🌐 [Portafolio](https://tuportafolio.dev)
+## 📫 Conecta conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/tuusuario)
+[![Correo](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:correo@example.com)
