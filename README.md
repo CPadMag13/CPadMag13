@@ -13,13 +13,14 @@ You can click the Preview link to take a look at your changes.
 
 
 <h1 align="center">Hey 👋, soy Claudia Iliana Padilla </h1>
-<h3 align="center">💻 Java | 🧠 React | 🛠 Laravel | ⚡ JavaScript</h3>
-
-<p align="center">Desarrollador apasionado por el backend, amante de la arquitectura limpia y el código elegante</p>
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+<p align="center">Desarrollador de Software, 👀 Estoy apasionada en el Desarrollo De Software, Front-End, Back-End and..., me gustan las buenas practicas y mantener un codigo limpio y elegante </p>
+<p align="center">🌱 Actualmente estoy aprendiendo sobre React con Laravel, SAP...</p>
+
 
 ## 🚀 Tecnologías
+<h3 align="center">💻 Java | 🧠 React | 🛠 Laravel | ⚡ JavaScript</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="30" />
