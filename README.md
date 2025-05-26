@@ -1,8 +1,3 @@
-<!---
-CPadMag13/CPadMag13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
 # Claudia Iliana Padilla - Full Stack Developer
 
@@ -42,8 +37,7 @@ You can click the Preview link to take a look at your changes.
 ## 📫 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/claudia-iliana-padilla-517408161/))
 [![Correo](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:clauc3488@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?logo=firefox-browser&logoColor=white)](https://tuportafolio.com)
-
+[![Portafolio](https://img.shields.io/badge/Portafolio-purple?logo=world&logoColor=white)](https://tuportafolio.com)
 
 ### 📊 GitHub Stats
 
