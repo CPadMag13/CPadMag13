@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Claudia Iliana Padilla, @CPadMag13
 - 👀 I’m interested in Software Development, Front-End, Back-End, Programming and ...
 - 🌱 I’m currently learning React with Laravel...
 - 💞️ I’m looking to collaborate on Partners of my careers
@@ -12,15 +11,15 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h1 align="center">Hey 👋, soy Claudia Iliana Padilla </h1>
+<h1 align="center">Hey 👋, Soy Claudia Iliana Padilla </h1>
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
-<p align="center">Desarrollador de Software, 👀 Estoy apasionada en el Desarrollo De Software, Front-End, Back-End and..., me gustan las buenas practicas y mantener un codigo limpio y elegante </p>
+<p align="center">Actualmente soy Desarrollador de Software, 👀 Estoy apasionada en el Desarrollo De Software, Front-End, Back-End and..., me gustan las buenas practicas y mantener un codigo limpio y elegante </p>
 <p align="center">🌱 Actualmente estoy aprendiendo sobre React con Laravel, SAP...</p>
 
 
 ## 🚀 Tecnologías
-<h3 align="center">💻 Java | 🧠 React | 🛠 Laravel | ⚡ JavaScript</h3>
+<h3 align="center">💻 Java | 🧠 React | 🛠 Laravel | ⚡ JavaScript | 🗃️ MySQL | 🧱 SQL Server </h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="30" />
@@ -33,6 +32,13 @@ You can click the Preview link to take a look at your changes.
 - Docker y contenedores
 - Clean Architecture en Laravel
 - Testing con Pest y Laravel Dusk
+
+### 🧠 Skills técnicas
+
+- 🗃️ **Bases de datos**: MySQL, SQL Server, Eloquent ORM
+- 🏗️ **Back-End**: Laravel, ASP.NET MVC, Java (Spring Boot)
+- 🎨 **Front-End**: React, Vite, JavaScript ES6+
+- 🛠️ **Herramientas**: Git, Postman, Docker
 
 ## 💡 Proyectos Destacados
 - 🧾 [Control de Gastos Personales](https://github.com/tuusuario/gastos-app)
