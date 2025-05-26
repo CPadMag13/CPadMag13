@@ -37,3 +37,43 @@ You can click the Preview link to take a look at your changes.
 ## 📫 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/tuusuario)
 [![Correo](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:correo@example.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Juan Pérez - Full Stack Developer
+
+## Sobre mí
+Ingeniero de software con más de 3 años de experiencia desarrollando aplicaciones web. Me especializo en el stack Laravel + React, con buen dominio de bases de datos y patrones de arquitectura como MVC y Clean Architecture.
+
+## Habilidades
+- Lenguajes: PHP, JavaScript, C#
+- Frameworks: Laravel, ASP.NET, React JS
+- Bases de datos: MySQL, SQL Server
+- Herramientas: Git, Postman, Docker
+
+## Experiencia
+- **Desarrollador Full Stack – Empresa X** (2023 - Actualidad)
+  - Mantenimiento de sistema de almacenes en ASP.NET MVC.
+  - Desarrollo de sistema de gastos personales con Laravel y React.
+
+## Educación
+- Ingeniería de Sistemas – Universidad XYZ
+
+## Contacto
+- Portafolio: https://juanperez.dev
+- LinkedIn: https://linkedin.com/in/juanperez
+- Email: juan@example.com
