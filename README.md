@@ -11,7 +11,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center">Hola, soy Juan 👨‍💻</h1>
+
+<h1 align="center">Hey 👋, soy Claudia Iliana Padilla </h1>
+# Full Stack Developer
+<h3 align="center">💻 Java | 🧠 React | 🛠 Laravel | ⚡ JavaScript</h3>
+
 <p align="center">Desarrollador apasionado por el backend, amante de la arquitectura limpia y el código elegante</p>
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
